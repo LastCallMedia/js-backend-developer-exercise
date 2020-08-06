@@ -1,0 +1,14 @@
+{
+  "name": "@lastcall/js-backend-developer-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.12.1"
+  }
+}
