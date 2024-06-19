@@ -1,7 +1,7 @@
 Backend Javascript Developer Exercise
 =====================================
 
-This exercise is designed to assess your skills and to see how you solve problems. Please don't spend more than 3 hours working on it, and if you have trouble completing it in that time, don't stress about it - just push up whatever you have.  There is no right answer here, and work-in-progress code is fine, as long as you can explain what you were working on during the interview.
+Backend Javascript Developer Exercis is brought to you by your friends at [Last Call Media](https://www.lastcallmedia.com), this is designed to assess your skills and to see how you solve problems. Please don't spend more than 3 hours working on it, and if you have trouble completing it in that time, don't stress about it - just push up whatever you have.  There is no right answer here, and work-in-progress code is fine, as long as you can explain what you were working on during the interview.
 
 We're expecting that many of you will not have worked with Cypress before - that's fine. You will probably want to start with [the docs](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html), or see [the examples](./cypress/integration/examples).
 
